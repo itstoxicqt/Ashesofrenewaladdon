@@ -1,0 +1,20 @@
+## Interface: 120000, 16001
+## Title: |cffff7520Ashes of Renewal|r
+## Notes: Guild hub for Ashes of Renewal: roster, event board, announcements and login alerts.
+## Author: Ashes of Renewal
+## Version: 1.2.0
+## SavedVariables: AshesOfRenewalDB
+## IconTexture: Interface\Icons\Spell_Fire_Fire
+
+Core.lua
+UI.lua
+Home.lua
+Roster.lua
+Board.lua
+Sync.lua
+ReserveData.lua
+ReserveUI.lua
+ForgeData.lua
+ForgeUI.lua
+Alerts.lua
+Modules.lua
